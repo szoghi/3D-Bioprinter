@@ -3,4 +3,4 @@ Low cost 3D-Bioprinter files available for universities and researchers interest
 
 
 ## Design Overview
-![design](Renderings/design 8.jpg)
+![design](Renderings/design 8.JPG)
