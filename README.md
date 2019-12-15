@@ -3,4 +3,4 @@ Low cost 3D-Bioprinter files available for universities and researchers interest
 
 
 ## Design Overview
-![design](Renderings/design 8.JPG)
+![design](https://github.com/szoghi/3D-Bioprinter/blob/master/Renderings/design%208.JPG)
