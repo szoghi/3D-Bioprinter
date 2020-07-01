@@ -10,3 +10,7 @@ https://drive.google.com/file/d/1hPeuLa1doMwlz5jnf1kFQAvXBxxV_h7L/view?usp=shari
 
 
 ![design](https://github.com/szoghi/3D-Bioprinter/blob/master/Renderings/design%203.JPG)
+
+
+
+![design](https://github.com/szoghi/3D-Bioprinter/blob/master/Renderings/design%209.JPG)
