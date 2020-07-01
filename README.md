@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1hPeuLa1doMwlz5jnf1kFQAvXBxxV_h7L/view?usp=shari
 
 
 
-![design](https://github.com/szoghi/3D-Bioprinter/blob/master/Renderings/Extruder%20assembly.png)
+![design](https://github.com/szoghi/3D-Bioprinter/blob/master/Renderings/Extruder%20assembly.png) ![design](https://github.com/szoghi/3D-Bioprinter/blob/master/Renderings/Thermal%20simulations%20of%20extruder.png)
 
 
 
