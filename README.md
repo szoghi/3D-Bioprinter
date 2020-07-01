@@ -4,5 +4,9 @@ Low cost 3D-Bioprinter files available for universities and researchers interest
 Below is the link for the Solidworks files:
 https://drive.google.com/file/d/1hPeuLa1doMwlz5jnf1kFQAvXBxxV_h7L/view?usp=sharing
 
-## Design Overview
+## Renderings
 ![design](https://github.com/szoghi/3D-Bioprinter/blob/master/Renderings/design%208.JPG)
+
+
+
+![design](https://github.com/szoghi/3D-Bioprinter/blob/master/Renderings/design%203.JPG)
