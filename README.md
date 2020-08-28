@@ -21,3 +21,4 @@ https://drive.google.com/file/d/1hPeuLa1doMwlz5jnf1kFQAvXBxxV_h7L/view?usp=shari
 
 
 
+![design](https://github.com/szoghi/3D-Bioprinter/blob/master/Renderings/EE%20Poster%20Bioprinter.png)
